@@ -12,7 +12,7 @@ CREATE TABLE EVENTO (
 );
 INSERT INTO EVENTO (Nombre, Localizacion, Tipo) VALUES
 ('Tech Summit 2025', 'Madrid', 'Conferencia'),
-('Maratón Solidario', 'Valencia', 'Deportivo'),
+('Sound Solidario', 'Valencia', 'Deportivo'),
 ('Concierto Primavera', 'Barcelona', 'Musical'),
-('Expo Innovación', 'Sevilla', 'Exposición'),
+('Expo Comic', 'Sevilla', 'Exposición'),
 ('Feria del Libro', 'Granada', 'Cultural');
